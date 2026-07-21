@@ -1,0 +1,5 @@
+com\client\service\ClientInfoServiceTest.class
+com\client\model\ClientInfoResponseTest.class
+com\client\model\ErrorResponseTest.class
+com\client\exception\GlobalExceptionHandlerTest.class
+com\client\util\ColumnDefinitionTest.class
